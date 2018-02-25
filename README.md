@@ -1,4 +1,4 @@
-#  [Onlinestatbook.com](www.onlinestatbook.com) with Python  
+#  Onlinestatbook.com[www.onlinestatbook.com] with Python  
 
 ###  [Onlinestatbook.com](www.onlinestatbook.com) is an infamous free online textbook for statistics. This repo contains Jupyter notebooks based on it using Python.  
 
