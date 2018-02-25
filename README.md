@@ -1,7 +1,6 @@
-# [Onlinestatbook.com](http://www.onlinestatbook.com) with Python  
-______
+#  [Onlinestatbook.com](www.onlinestatbook.com) with Python  
 
-###  [Onlinestatbook.com] (http://www.onlinestatbook.com) is an infamous free online textbook for statistics. This repo contains Jupyter notebooks based on it using Python.  
+###  [Onlinestatbook.com](www.onlinestatbook.com) is an infamous free online textbook for statistics. This repo contains Jupyter notebooks based on it using Python.  
 
 ##  _Notes & Q_
 
