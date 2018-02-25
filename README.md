@@ -1,4 +1,4 @@
-# [Onlinestatsbook.com](Onlinestatsbook.com) with Python  
+# [Onlinestatsbook.com](http://Onlinestatsbook.com) with Python  
 ____
 
 Onlinestatsbook.com is an infamous free online textbook for statistics. It's long past time someone created Jupyter notebooks based on it.  
