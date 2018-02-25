@@ -5,7 +5,7 @@ ______
 
 ##  _Notes & Q_
 
-*  It starts with chapter 3 because everything before that is too basic to bother with coding.  
+*  The repo starts with chapter 3 because everything before that is too basic to bother with coding.  
 
 *  Exercises at the end of each chapter contain exercises concerning certain case studies.   Each case study has its own Jupiter notebook.  To be clear, if you are looking for the work for a particular question related to a case study, check the Jupiter notebook for that case study.  
 
